@@ -1,0 +1,6 @@
+{
+  "name": "الدرس التعليمي الشامل: العصبون | NASEEM FLOW",
+  "description": "منصة تعليمية تفاعلية راقية لدرس العصبون (الخلية العصبية) - العلوم الحياتية للصف الحادي عشر العلمي وفق المنهاج الفلسطيني، بتصميم نسيم فلو فائق الأناقة.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
